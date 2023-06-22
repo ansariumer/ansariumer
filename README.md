@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ansariumer
+- 👋 Hi, I’m Umer
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning Unity and C#
 <!--- 💞️ I’m looking to collaborate on --->
